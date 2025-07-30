@@ -1,0 +1,5 @@
+"Table","Title","Filename","Research_Question","Purpose","Key_Findings"
+"Table 1","Baseline Characteristics of Study Population","Table1_Baseline_Characteristics.csv","Descriptive","Manuscript Table 1 - Population description","354 patients, 13% mortality, comprehensive baseline data"
+"Table 2","Mortality Prediction Model Development and Performance","Table2_Model_Results.csv","RQ1","Manuscript Table 2 - Main results","3-variable model, C-statistic 0.73, respiratory rate primary predictor"
+"Table 3","Clinical Risk Score Performance and Utility","Table3_Risk_Score_Performance.csv","RQ3","Manuscript Table 3 - Clinical implementation","2-variable risk score, minimal performance loss, clear risk stratification"
+"Table 4","HIV-CAP Outcomes Comparison (Supplementary)","Table4_HIV_CAP_Comparison.csv","RQ2","Supplementary Table - HIV analysis","No HIV mortality difference (p=0.52), modern HIV care effectiveness"

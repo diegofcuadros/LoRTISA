@@ -1,0 +1,3 @@
+urban_rural,n_patients,mortality_30day,mortality_rate,hiv_positive,hiv_prevalence,median_age
+Rural/Peri-urban,97,16.0,20.0,21,20.0,49.0
+Urban,267,38.0,10.0,98,40.0,40.0

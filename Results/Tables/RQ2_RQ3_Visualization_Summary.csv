@@ -1,0 +1,7 @@
+"Figure","Research_Question","Title","Filename","Key_Finding","Purpose"
+"Figure7","RQ2","HIV Status Mortality Comparison","Figure7_HIV_Mortality_Comparison.png","No significant HIV mortality difference (p=0.52)","Manuscript Figure, Policy Brief"
+"Figure8","RQ2","HIV Baseline Characteristics Forest Plot","Figure8_HIV_Baseline_Forest.png","No significant baseline differences by HIV status","Manuscript Table/Figure"
+"Figure9","RQ3","Risk Score ROC Curve with RQ1 Comparison","Figure9_Risk_Score_ROC.png","Risk score AUC=0.675, minimal loss vs RQ1 model","Performance Comparison, Manuscript"
+"Figure10","RQ3","Risk Stratification Performance","Figure10_Risk_Stratification.png","Clear 4-fold mortality gradient across risk groups","Clinical Implementation, Training"
+"Figure11","RQ3","Risk Score Components Distribution","Figure11_Risk_Components.png","Respiratory rate most discriminating component","Component Analysis, Manuscript"
+"Figure12","RQ3","Clinical Decision Dashboard","Figure12_Clinical_Dashboard.png","Complete clinical decision support tool","Clinical Implementation, Presentations"

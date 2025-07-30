@@ -1,0 +1,4 @@
+hospital_clean,n_patients,mortality_30day,mortality_rate,hiv_positive,hiv_prevalence,median_age
+Mulago,202,33.0,20.0,54,30.0,42.0
+Kirrudu,133,17.0,10.0,52,40.0,45.0
+Naguru,29,4.0,10.0,13,40.0,32.0

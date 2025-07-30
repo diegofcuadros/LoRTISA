@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cut:*)",
+      "Bash(python3:*)",
+      "Bash(awk:*)",
+      "Bash(grep:*)",
+      "Bash(Rscript:*)",
+      "Bash(R:*)",
+      "Bash(where R)",
+      "Bash(del \"LoRTISA Study Variables List_120224.docx\")",
+      "Bash(del:*)",
+      "Bash(rm:*)",
+      "Bash(python:*)"
+    ],
+    "deny": []
+  }
+}

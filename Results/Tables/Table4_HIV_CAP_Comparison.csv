@@ -1,0 +1,6 @@
+"Outcome","HIV_Positive","HIV_Negative","P_Value","Interpretation"
+"Study Population","119 patients","219 patients","—","Total with known HIV status"
+"30-day Mortality","16.8% (20/119)","13.7% (30/219)","0.5213","No significant difference"
+"In-hospital Mortality","12.6% (15/119)","10% (22/219)","Not calculated","Descriptive comparison"
+"30-day Rehospitalization","12.9% (13/119)","9.3% (18/219)","0.4337","Descriptive comparison"
+"Composite Poor Outcome","25.9% (30/119)","20.9% (45/219)","Not calculated","Descriptive comparison"
